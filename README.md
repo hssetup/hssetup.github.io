@@ -8,7 +8,7 @@ HP printers offer first-class facilities to its users worldwide. HP Printer Setu
 
 **_Here are the simple and easy to perform guidelines to download your hp printer setup:_**
 
-1. Go to **[www.123.hp.com/setup](https://hssetup.github.io)**using your web browser.
+1. Go to **[www.123.hp.com/setup](https://hssetup.github.io)** using your web browser.
 2. Then choose the product you want to download.
 3. Select the product and check the supportability of it with your device.
 4. Then, click the download button to start downloading the hp printer product.
